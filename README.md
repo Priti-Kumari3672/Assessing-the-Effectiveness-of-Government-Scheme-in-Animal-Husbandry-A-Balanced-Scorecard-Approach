@@ -31,35 +31,35 @@ I chose to work on this project because I wanted to
 # 1. Balanced Scorecard (BSC)
 Used to evaluate the scheme from four perspectives:
 
-Financial (e.g., ROI, profit per chicken),
+* Financial (e.g., ROI, profit per chicken),
 
-Customer (e.g., satisfaction, retention),
+* Customer (e.g., satisfaction, retention),
 
-Internal Processes (e.g., mortality rate, feed efficiency),
+* Internal Processes (e.g., mortality rate, feed efficiency),
 
-Learning & Growth (e.g., training hours, tech adoption).
+* Learning & Growth (e.g., training hours, tech adoption).
 
 # 2. CIMAS (Criteria Importance Assessment)
-Used expert opinion to assign weights to each KPI.
+* Used expert opinion to assign weights to each KPI.
 
-Ensured that evaluation considers expert experience and field relevance.
+* Ensured that evaluation considers expert experience and field relevance.
 
-Provided a robust, weighted performance index.
+* Provided a robust, weighted performance index.
 
 # Data Sources
-Government Portals: Baseline KPIs from 2022–23 gathered from official reports.
+* Government Portals: Baseline KPIs from 2022–23 gathered from official reports.
 
-Field Study: Primary data collected from poultry farmers in Angara Block, Ranchi District with support from JSLPS and Department of Animal Husbandry, Jharkhand.
+* Field Study: Primary data collected from poultry farmers in Angara Block, Ranchi District with support from JSLPS and Department of Animal Husbandry, Jharkhand.
 
 # Result Highlights
-Financial indicators showed improvement in ROI and gross margin.
+* Financial indicators showed improvement in ROI and gross margin.
 
-Customer indicators revealed delays and communication gaps.
+* Customer indicators revealed delays and communication gaps.
 
-Internal metrics showed moderate improvement in hatchery yield and feed efficiency.
+* Internal metrics showed moderate improvement in hatchery yield and feed efficiency.
 
-Learning & Growth was the weakest, with limited training and tech adoption.
+* Learning & Growth was the weakest, with limited training and tech adoption.
 
-The overall performance index reflects both success and key areas for policy improvement.
+* The overall performance index reflects both success and key areas for policy improvement.
 
 
