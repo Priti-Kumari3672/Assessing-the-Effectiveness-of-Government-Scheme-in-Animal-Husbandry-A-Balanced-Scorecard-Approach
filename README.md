@@ -47,7 +47,7 @@ Used to evaluate the scheme from four perspectives:
 * Provided a robust, weighted performance index.
 
 # Data Sources
-* Government Portals: Baseline KPIs from 2022–23 gathered from official reports.
+* Government Portals: Baseline KPIs from 2022–23 & 2023-2024 gathered from official reports.
 
 * Field Study: Primary data collected from poultry farmers in Angara Block, Ranchi District with support from JSLPS and Department of Animal Husbandry, Jharkhand.
 
